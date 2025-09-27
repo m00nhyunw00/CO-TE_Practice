@@ -66,7 +66,7 @@ SOFTWARE.
 
 <br>
 
-## 📧 제작자 정
+## 📧 문제집 제작자 정보
 
 - **GitHub**: [tony9402](https://github.com/tony9402)
 - **Email**: [tony9402@gmail.com](mailto:tony9402@gmail.com)
