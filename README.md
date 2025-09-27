@@ -1,28 +1,3 @@
-# 이 README 내용은 MS Kim(tony9402)님의 원본 README 내용을 기반으로 작성되었습니다.
-MIT License
-
-Copyright (c) 2021 MS Kim(tony9402)
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-<br>
-
 # 📚 코딩 테스트 대비 문제집 (Baekjoon Online Judge)
 
 이 레포지토리 (https://github.com/tony9402/baekjoon) 는 백준 온라인 저지(Baekjoon Online Judge)의 문제들을 알고리즘 유형별로 분류하여 코딩 테스트 준비를 돕기 위한 자료입니다. 다양한 알고리즘 문제를 체계적으로 학습하고자 하는 사람에게 유용합니다.
@@ -72,3 +47,30 @@ SOFTWARE.
 
 - **GitHub**: [tony9402](https://github.com/tony9402)
 - **Email**: [tony9402@gmail.com](mailto:tony9402@gmail.com)
+
+<br>
+
+# 이 README 내용은 MS Kim(tony9402)님의 원본 README 내용을 기반으로 작성되었습니다.
+MIT License
+
+Copyright (c) 2021 MS Kim(tony9402)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+<br>
