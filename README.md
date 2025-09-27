@@ -23,7 +23,7 @@ SOFTWARE.
 
 # 📚 코딩 테스트 대비 문제집 (Baekjoon Online Judge)
 
-이 레포지토리(https://github.com/tony9402/baekjoon)는 백준 온라인 저지(Baekjoon Online Judge)의 문제들을 알고리즘 유형별로 분류하여 코딩 테스트 준비를 돕기 위한 자료입니다. 다양한 알고리즘 문제를 체계적으로 학습하고자 하는 사람에게 유용합니다.
+이 레포지토리 (https://github.com/tony9402/baekjoon) 는 백준 온라인 저지(Baekjoon Online Judge)의 문제들을 알고리즘 유형별로 분류하여 코딩 테스트 준비를 돕기 위한 자료입니다. 다양한 알고리즘 문제를 체계적으로 학습하고자 하는 사람에게 유용합니다.
 
 <br>
 ## 🧠 학습 가이드
