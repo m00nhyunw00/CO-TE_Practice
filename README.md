@@ -66,13 +66,6 @@ SOFTWARE.
 
 <br>
 
-## 📌 참고 자료
-
-- [알고리즘 설명 링크 모음](https://github.com/tony9402/baekjoon/markdown/algorithm_list.md): 각 알고리즘에 대한 설명과 참고 자료를 모아두었습니다.
-- [코딩 테스트 준비 가이드](https://github.com/tony9402/baekjoon/markdown/CodingTest.md): 코딩 테스트 준비를 위한 전략과 팁을 제공합니다.
-
-<br>
-
 ## 📧 제작자 정
 
 - **GitHub**: [tony9402](https://github.com/tony9402)
