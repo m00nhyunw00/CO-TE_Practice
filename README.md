@@ -26,12 +26,14 @@ SOFTWARE.
 이 레포지토리 (https://github.com/tony9402/baekjoon) 는 백준 온라인 저지(Baekjoon Online Judge)의 문제들을 알고리즘 유형별로 분류하여 코딩 테스트 준비를 돕기 위한 자료입니다. 다양한 알고리즘 문제를 체계적으로 학습하고자 하는 사람에게 유용합니다.
 
 <br>
+
 ## 🧠 학습 가이드
 
 - **알고리즘 유형별 문제**: 각 알고리즘 유형에 맞는 문제를 분류하여 제공합니다. 문제를 풀면서 해당 알고리즘의 이해도를 높일 수 있습니다.
 - **추천 문제**: 각 유형별로 반드시 풀어보면 좋은 문제를 추천해줍니다.
 
 <br>
+
 ## 📌 알고리즘 유형별 문제 목록
 
 | 순번 | 알고리즘 유형           | 문제 수 | 
@@ -63,12 +65,14 @@ SOFTWARE.
 > **참고**: 문제의 순서는 알고리즘 공부 순서와는 무관합니다.
 
 <br>
+
 ## 📌 참고 자료
 
 - [알고리즘 설명 링크 모음](https://github.com/tony9402/baekjoon/markdown/algorithm_list.md): 각 알고리즘에 대한 설명과 참고 자료를 모아두었습니다.
 - [코딩 테스트 준비 가이드](https://github.com/tony9402/baekjoon/markdown/CodingTest.md): 코딩 테스트 준비를 위한 전략과 팁을 제공합니다.
 
 <br>
+
 ## 📧 제작자 정
 
 - **GitHub**: [tony9402](https://github.com/tony9402)
